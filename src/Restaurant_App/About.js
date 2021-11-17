@@ -9,7 +9,7 @@ var myStyle1={
 var myStyle2={
     fontFamily:'Courier',
     backgroundColor:'black',
-    color:'green'
+    color:'black'
 }
 
 class About extends React.Component
