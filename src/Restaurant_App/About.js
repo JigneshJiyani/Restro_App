@@ -4,7 +4,7 @@ import React from 'react';
 var myStyle1={
     fontFamily:'Courier',
     backgroundColor:'orange',
-    color:'white'
+    color:'green'
 }
 var myStyle2={
     fontFamily:'Courier',
